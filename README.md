@@ -799,12 +799,7 @@ This creates a gradual filter sweep that removes low frequencies over 16 steps, 
 ## Resources
 
 For further exploration:
-- Official M8 manual and firmware from the DirtyWave website
-- Community documentation at team.indiedemos.com
-- Tutorial videos by RedMeansRecording
-- Official Discord server
-- GitHub repositories with additional documentation
-
----
-
-This guide is a living document that will continue to be expanded with more detailed explanations, screenshots, and examples. The community continues to discover and document techniques for getting the most out of the M8's compact but powerful interface.
+- Official M8 manual and firmware from the [DirtyWave website](https://dirtywave.com/pages/resources-downloads)
+- Community documentation at [team.indiedemos.com](https://team.indiedemos.com/@tom-avatars/dirtywave-m8-ressources/community-documentation-4)
+- Tutorial videos by [RedMeansRecording](https://youtu.be/QYeM4Dx2kGU?si=L0KEUb5fpicQo3LC)
+- Official [Discord server](https://discord.gg/WEavjFNYHh)
